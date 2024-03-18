@@ -2,7 +2,7 @@
 
 ### Data Engineer
 
-- 💻 I use daily: `Python`, `sklearn`, `numpy`, `pandas`
-- 💬 Interested **Python**, **Data Engineering**
+- 💻 I use daily: `Python`, `SQL`, `DWH`, `Greenplum`, `PostgreSQL`, `ETL`, `Hadoop`, `Hadoop`, `Spark`, `GIT`
+- 💬 Interested **Python**, **Data Engineering**, **Data base**
 - ⚡️ Hobbies: coding, reading, gym
 
