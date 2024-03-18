@@ -1,8 +1,8 @@
 <h1 align="center">Hi there 👋 I'm Vladimir, Welcome to my github!</a> 
 
-### ML engineer
+### Data Engineer
 
 - 💻 I use daily: `Python`, `sklearn`, `numpy`, `pandas`
-- 💬 Interested **ML**, **Data Science**
+- 💬 Interested **Python**, **Data Engineering**
 - ⚡️ Hobbies: coding, reading, gym
 
